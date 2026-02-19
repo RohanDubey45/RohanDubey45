@@ -18,7 +18,7 @@ Azure Synapse Analytics, Delta Lake, and the Data Lakehouse to build efficient d
 - SQL  
 - Python  
 - Git & GitHub
-- 
+  
 ---
 
 ## 📫 Connect With Me
